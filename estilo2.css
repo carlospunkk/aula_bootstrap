@@ -1,0 +1,32 @@
+/*! adicionando color na barra navbar background*/
+.navbar {
+    background-color: #197008 ;
+}
+.quem-somos {
+background-color:rgb(11, 165, 139);
+text-align: center;
+}
+.margin{
+    padding-right: 2000px;
+    padding-top: 5px;
+   
+    
+     
+}
+.servicos{
+color:white;
+font-family:Georgia, 'Times New Roman', Times, serif;
+background-color: lightslategray;
+
+
+}
+.parceiros{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightseagreen;
+    
+}
+.bg-footer{
+    background-color: black;
+    color:white;
+}
